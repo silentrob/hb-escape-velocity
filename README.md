@@ -29,14 +29,14 @@ AJ
 n33.co @n33co dribbble.com/n33
 
 Credits:
-	- Original Source: html5up.net
-	- Images (Demo Only):
-		- Felicia Simion (http://ineedchemicalx.deviantart.com/)
-	- Icons:
-		- Font Awesome (http://fortawesome.github.com/Font-Awesome/)
-		- Font Awesome More (http://gregoryloucas.github.com/Font-Awesome-More/)
-	- Other:
-		- jQuery (jquery.com)
-		- html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		- Dropotron (n33.co)
-		- 5grid.js + 5grid-ui.js (n33.co)
+- Original Source: html5up.net
+- Images (Demo Only):
+	- Felicia Simion (http://ineedchemicalx.deviantart.com/)
+- Icons:
+	- Font Awesome (http://fortawesome.github.com/Font-Awesome/)
+	- Font Awesome More (http://gregoryloucas.github.com/Font-Awesome-More/)
+- Other:
+	- jQuery (jquery.com)
+	- html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+	- Dropotron (n33.co)
+	- 5grid.js + 5grid-ui.js (n33.co)
